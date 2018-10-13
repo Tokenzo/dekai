@@ -1,0 +1,1 @@
+cgminer.exe --scrypt -o strata + tcp: //scrypt.eobot.com: 4444 --userpass eobot.2140145: x 
